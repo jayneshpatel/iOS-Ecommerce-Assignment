@@ -1,0 +1,319 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "iPhone 15 Pro",
+      "price": 134900,
+      "imageURL": "https://picsum.photos/300?1",
+      "isOutOfStock": false,
+      "availableQuantity": 12,
+      "description": "Titanium body with A17 Pro chip and pro camera system."
+    },
+    {
+      "id": "2",
+      "name": "iPhone 15",
+      "price": 79900,
+      "imageURL": "https://picsum.photos/300?2",
+      "isOutOfStock": false,
+      "availableQuantity": 20,
+      "description": "A16 chip with stunning photos and all-day battery life."
+    },
+    {
+      "id": "3",
+      "name": "AirPods Pro (2nd Gen)",
+      "price": 24900,
+      "imageURL": "https://picsum.photos/300?3",
+      "isOutOfStock": true,
+      "availableQuantity": 0,
+      "description": "Active Noise Cancellation with immersive spatial audio."
+    },
+    {
+      "id": "4",
+      "name": "Apple Watch Series 9",
+      "price": 41900,
+      "imageURL": "https://picsum.photos/300?4",
+      "isOutOfStock": false,
+      "availableQuantity": 15,
+      "description": "Advanced health tracking with brighter always-on display."
+    },
+    {
+      "id": "5",
+      "name": "Apple Watch Ultra 2",
+      "price": 89900,
+      "imageURL": "https://picsum.photos/300?5",
+      "isOutOfStock": false,
+      "availableQuantity": 6,
+      "description": "Rugged design built for extreme sports and adventures."
+    },
+    {
+      "id": "6",
+      "name": "MacBook Air M2",
+      "price": 114900,
+      "imageURL": "https://picsum.photos/300?6",
+      "isOutOfStock": false,
+      "availableQuantity": 10,
+      "description": "Ultra-thin laptop with powerful Apple M2 performance."
+    },
+    {
+      "id": "7",
+      "name": "MacBook Pro 14 M3",
+      "price": 199900,
+      "imageURL": "https://picsum.photos/300?7",
+      "isOutOfStock": false,
+      "availableQuantity": 5,
+      "description": "Professional performance with M3 chip and Liquid Retina."
+    },
+    {
+      "id": "8",
+      "name": "iPad Pro 11-inch",
+      "price": 81900,
+      "imageURL": "https://picsum.photos/300?8",
+      "isOutOfStock": true,
+      "availableQuantity": 0,
+      "description": "Powerful tablet with ProMotion display and M2 chip."
+    },
+    {
+      "id": "9",
+      "name": "iPad Air",
+      "price": 59900,
+      "imageURL": "https://picsum.photos/300?9",
+      "isOutOfStock": false,
+      "availableQuantity": 18,
+      "description": "Lightweight tablet with powerful M1 performance."
+    },
+    {
+      "id": "10",
+      "name": "Magic Keyboard",
+      "price": 29900,
+      "imageURL": "https://picsum.photos/300?10",
+      "isOutOfStock": false,
+      "availableQuantity": 25,
+      "description": "Premium keyboard with trackpad for iPad productivity."
+    },
+    {
+      "id": "11",
+      "name": "Apple Pencil (2nd Gen)",
+      "price": 11900,
+      "imageURL": "https://picsum.photos/300?11",
+      "isOutOfStock": false,
+      "availableQuantity": 30,
+      "description": "Pixel-perfect precision for drawing and note-taking."
+    },
+    {
+      "id": "12",
+      "name": "HomePod (2nd Gen)",
+      "price": 32900,
+      "imageURL": "https://picsum.photos/300?12",
+      "isOutOfStock": true,
+      "availableQuantity": 0,
+      "description": "Rich room-filling sound with smart home integration."
+    },
+    {
+      "id": "13",
+      "name": "AirTag (4 Pack)",
+      "price": 10900,
+      "imageURL": "https://picsum.photos/300?13",
+      "isOutOfStock": false,
+      "availableQuantity": 40,
+      "description": "Track keys, bags, and more with precision finding."
+    },
+    {
+      "id": "14",
+      "name": "Apple TV 4K",
+      "price": 15900,
+      "imageURL": "https://picsum.photos/300?14",
+      "isOutOfStock": false,
+      "availableQuantity": 22,
+      "description": "Cinematic streaming with Dolby Vision and Atmos."
+    },
+    {
+      "id": "15",
+      "name": "Studio Display",
+      "price": 159900,
+      "imageURL": "https://picsum.photos/300?15",
+      "isOutOfStock": false,
+      "availableQuantity": 4,
+      "description": "5K Retina display with incredible color accuracy."
+    },
+    {
+      "id": "16",
+      "name": "Mac Mini M2",
+      "price": 59900,
+      "imageURL": "https://picsum.photos/300?16",
+      "isOutOfStock": false,
+      "availableQuantity": 14,
+      "description": "Compact desktop with powerful M2 performance."
+    },
+    {
+      "id": "17",
+      "name": "Mac Studio",
+      "price": 214900,
+      "imageURL": "https://picsum.photos/300?17",
+      "isOutOfStock": true,
+      "availableQuantity": 0,
+      "description": "Extreme performance workstation for professionals."
+    },
+    {
+      "id": "18",
+      "name": "Magic Mouse",
+      "price": 7500,
+      "imageURL": "https://picsum.photos/300?18",
+      "isOutOfStock": false,
+      "availableQuantity": 35,
+      "description": "Multi-touch mouse with sleek wireless design."
+    },
+    {
+      "id": "19",
+      "name": "Magic Trackpad",
+      "price": 14500,
+      "imageURL": "https://picsum.photos/300?19",
+      "isOutOfStock": false,
+      "availableQuantity": 28,
+      "description": "Large glass surface with gesture support."
+    },
+    {
+      "id": "20",
+      "name": "USB-C Power Adapter",
+      "price": 1900,
+      "imageURL": "https://picsum.photos/300?20",
+      "isOutOfStock": false,
+      "availableQuantity": 60,
+      "description": "Fast and efficient charging for Apple devices."
+    },
+    {
+      "id": "21",
+      "name": "Samsung Galaxy S24 Ultra",
+      "price": 129999,
+      "imageURL": "https://picsum.photos/300?21",
+      "isOutOfStock": false,
+      "availableQuantity": 16,
+      "description": "200MP camera with Galaxy AI and titanium frame."
+    },
+    {
+      "id": "22",
+      "name": "Samsung Galaxy Watch 6",
+      "price": 36999,
+      "imageURL": "https://picsum.photos/300?22",
+      "isOutOfStock": false,
+      "availableQuantity": 19,
+      "description": "Advanced health insights with sleek AMOLED display."
+    },
+    {
+      "id": "23",
+      "name": "Sony WH-1000XM5",
+      "price": 29999,
+      "imageURL": "https://picsum.photos/300?23",
+      "isOutOfStock": true,
+      "availableQuantity": 0,
+      "description": "Industry-leading noise cancellation headphones."
+    },
+    {
+      "id": "24",
+      "name": "Sony PlayStation 5",
+      "price": 54999,
+      "imageURL": "https://picsum.photos/300?24",
+      "isOutOfStock": false,
+      "availableQuantity": 8,
+      "description": "Next-gen console with ultra-fast SSD gaming."
+    },
+    {
+      "id": "25",
+      "name": "Xbox Series X",
+      "price": 55990,
+      "imageURL": "https://picsum.photos/300?25",
+      "isOutOfStock": false,
+      "availableQuantity": 7,
+      "description": "Powerful gaming console with 4K performance."
+    },
+    {
+      "id": "26",
+      "name": "Nintendo Switch OLED",
+      "price": 34999,
+      "imageURL": "https://picsum.photos/300?26",
+      "isOutOfStock": false,
+      "availableQuantity": 13,
+      "description": "Vibrant OLED screen with flexible gaming modes."
+    },
+    {
+      "id": "27",
+      "name": "Dell XPS 13",
+      "price": 139990,
+      "imageURL": "https://picsum.photos/300?27",
+      "isOutOfStock": true,
+      "availableQuantity": 0,
+      "description": "Premium ultrabook with edge-to-edge display."
+    },
+    {
+      "id": "28",
+      "name": "HP Spectre x360",
+      "price": 149999,
+      "imageURL": "https://picsum.photos/300?28",
+      "isOutOfStock": false,
+      "availableQuantity": 9,
+      "description": "Convertible laptop with premium build quality."
+    },
+    {
+      "id": "29",
+      "name": "Logitech MX Master 3S",
+      "price": 9999,
+      "imageURL": "https://picsum.photos/300?29",
+      "isOutOfStock": false,
+      "availableQuantity": 26,
+      "description": "Advanced mouse with silent clicks and precision."
+    },
+    {
+      "id": "30",
+      "name": "Amazon Echo (5th Gen)",
+      "price": 9999,
+      "imageURL": "https://picsum.photos/300?30",
+      "isOutOfStock": false,
+      "availableQuantity": 31,
+      "description": "Smart speaker with improved audio and Alexa."
+    },
+    {
+      "id": "31",
+      "name": "Google Pixel 8 Pro",
+      "price": 106999,
+      "imageURL": "https://picsum.photos/300?31",
+      "isOutOfStock": false,
+      "availableQuantity": 11,
+      "description": "AI-powered photography with Tensor G3 chip."
+    },
+    {
+      "id": "32",
+      "name": "Google Pixel Watch",
+      "price": 39999,
+      "imageURL": "https://picsum.photos/300?32",
+      "isOutOfStock": true,
+      "availableQuantity": 0,
+      "description": "Wear OS smartwatch with Fitbit integration."
+    },
+    {
+      "id": "33",
+      "name": "Bose SoundLink Revolve+",
+      "price": 32999,
+      "imageURL": "https://picsum.photos/300?33",
+      "isOutOfStock": false,
+      "availableQuantity": 12,
+      "description": "360-degree sound with deep bass performance."
+    },
+    {
+      "id": "34",
+      "name": "Canon EOS R50",
+      "price": 72999,
+      "imageURL": "https://picsum.photos/300?34",
+      "isOutOfStock": false,
+      "availableQuantity": 6,
+      "description": "Mirrorless camera perfect for content creators."
+    },
+    {
+      "id": "35",
+      "name": "GoPro Hero 12",
+      "price": 44999,
+      "imageURL": "https://picsum.photos/300?35",
+      "isOutOfStock": false,
+      "availableQuantity": 10,
+      "description": "Action camera with advanced stabilization."
+    }
+  ]
+}
